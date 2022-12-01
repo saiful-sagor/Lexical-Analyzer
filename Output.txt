@@ -1,0 +1,106 @@
+This is Keyword: int
+
+This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+This is Identifier: a
+
+This is Assignment Operator: =
+
+This is Integer: 5
+
+This is Delimiter: ,
+
+This is Identifier: b
+
+This is Delimiter: ;
+
+This is Keyword: float
+
+This is Identifier: c
+
+This is Delimiter: ;
+
+This is Function: printf(
+
+This is Identifier: Enter
+
+This is Identifier: the
+
+This is Identifier: value
+
+This is Identifier: of
+
+This is Identifier: divisor
+
+This is Identifier: n
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Function: scanf(
+
+This is Special Characters: %
+
+This is Identifier: d
+
+This is Delimiter: ,
+
+This is Special Characters: &
+
+This is Identifier: amp
+
+This is Delimiter: ;
+
+This is Identifier: b
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Identifier: c
+
+This is Assignment Operator: =
+
+This is Identifier: a
+
+This is Arithmatic Operator: /
+
+This is Identifier: b
+
+This is Delimiter: ;
+
+This is Function: printf(
+
+This is Identifier: The
+
+This is Identifier: quotient
+
+This is Identifier: is
+
+This is Special Characters: %
+
+This is Identifier: f
+
+This is Delimiter: ,
+
+This is Identifier: c
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+
+
+
+ Total Tokens = 50

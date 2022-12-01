@@ -1,0 +1,8 @@
+int main()
+{int a=5,b;
+float c;
+printf(“Enter the value of divisor\n”);
+scanf(“%d”,&amp;b);
+c=a/b;
+printf(“The quotient is %f ”,c);
+}
